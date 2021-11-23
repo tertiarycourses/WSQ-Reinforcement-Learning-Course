@@ -1,7 +1,14 @@
+numpy
 matplotlib
+sklearn
+jupyter
+tensorflow
 torch
 torchvision
 tensorflow
-tensorboardX
+pyglet
 gym
 gym[atari]
+stable-baselines3[extra] 
+box2d 
+box2d-kengz
